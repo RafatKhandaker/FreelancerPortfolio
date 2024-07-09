@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project Deployed Link: https://rafatkhandaker.com
+
+![image](https://github.com/RafatKhandaker/FreelancerPortfolio/assets/19369242/6038804c-ef2a-49df-8eb1-fa62b4771dd6)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
