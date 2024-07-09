@@ -1,0 +1,1193 @@
+[{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1d4"
+  },
+  "title": "Material Dashboard Pro (Angular)",
+  "type": "Angular",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Dashboard style, rich icons, forms and buttons that pop out of screen into user view. Very clean and light feel. Has various function that equate to a N-Tier to service oriented cloud application for a potential internal business operation service or system solution.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/55/thumb/opt_mdp_angular_thumbnail.jpg?1551358096",
+  "url": "https://demos.creative-tim.com/material-dashboard-pro-angular2/#/components/buttons"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1d5"
+  },
+  "title": "Paper Dashboard Pro (Angular)",
+  "type": "Angular",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Bootstrapping template that provides all necessary designs for an application, the initial style is a dashboard application with various details. This typically will favor business that would develop an internal tracking system for a Medium tier N-Tier or Service Oriented Tier Business solution.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/59/thumb/opt_pdp_angular_thumbnail.jpg?1551358278",
+  "url": "https://demos.creative-tim.com/paper-dashboard-pro-angular/?_ga=2.63255919.1738810383.1704637745-1777164322.1704637745"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1d6"
+  },
+  "title": "Light Bootstrap Dashboard Pro (Angular)",
+  "type": "Angular",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Dashboard template with various charts and tables for data driven application, possible scaling N-Tier to service oriented cloud or beyond. Can function for both internal or external application cloud.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/54/original/opt_lbdp_angular_thumbnail.jpg?1551358019",
+  "url": "https://demos.creative-tim.com/light-bootstrap-dashboard-pro-angular2/#/dashboard"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1d7"
+  },
+  "title": "Paper Kit 2 PRO (Angular)",
+  "type": "Angular",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Neat, light weight application for branding a particular product or service. Various creative card view design with shopping card. Can be used to sell a particular product, engage business sales. Possible future integration with custom dashboard application for order tracking systems or operations. This application can be designed within a Tier 1, Tier 2 or possible N-Tier Solution. Depending on desired front-end to backend features.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/68/thumb/opt_pk2p_angular_thumbnail.jpg?1551358324",
+  "url": "https://demos.creative-tim.com/paper-kit-2-pro-angular/#/presentation"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1d8"
+  },
+  "title": "Argon Dashboard PRO (Angular)",
+  "type": "Angular",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Neat template, designed to showcase and advertise a product or service with creative templates and pricing plan for various clients.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/220/thumb/opt_adp_angular_thumbnail.jpg?1568969383",
+  "url": "https://demos.creative-tim.com/argon-dashboard-pro-angular/#/presentation"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1d9"
+  },
+  "title": "BLK• Design System PRO (Angular)",
+  "type": "Angular",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Media style, fashion millenial style branding and coloring. Very neat template design for media enthusiasts & artists. Neat card design stack feel, lengthy single page scrolling, advertisement design marketing product or service.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/223/thumb/opt_blkp_angular_thumbnail.jpg?1570189208",
+  "url": "https://demos.creative-tim.com/blk-design-system-pro-angular/?_ga=2.137894128.1738810383.1704637745-1777164322.1704637745"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1da"
+  },
+  "title": "Black Dashboard PRO (Angular)",
+  "type": "Angular",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Dashboard style application with a dark taste and dark theme background. Appropriate for Service Oriented Cloud or potential microservice direction of services to display reports, results for high functional transactional systems or monitoring solutions, Monitoring audits and internal operations & tracking systems.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/256/thumb/opt_bdp_angular_thumbnail.jpg?1571042173",
+  "url": "https://demos.creative-tim.com/black-dashboard-pro-angular/?_ga=2.25632125.1738810383.1704637745-1777164322.1704637745"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1db"
+  },
+  "title": "Now UI Kit PRO (Angular)",
+  "type": "Angular",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Product and branding advertisement with neat coloring and features. Good base and collapsing Navigation panel. Mixture of red, orange, black and white contrast. Very appealing and modernized clean neat urban design. Appropriate for a Tier 1 to Tier 2 application design.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/74/thumb/opt_nukp_angular_thumbnail.jpg?1551358218",
+  "url": "https://demos.creative-tim.com/now-ui-kit-pro-angular?_ga=2.133976526.1738810383.1704637745-1777164322.1704637745"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1dc"
+  },
+  "title": "Now UI Dashboard PRO (Angular)",
+  "type": "Angular",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Very neat dashboard with login page feature. Appropriate for operations tracking audits and order system application. Displaying chargs and graphs for revenue growth or potential internal business service. Appropriate for N-Tier to Service Oriented Cloud Design.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/145/thumb/opt_nudp_angular_thumbnail.jpg?1551358167",
+  "url": "https://demos.creative-tim.com/now-ui-dashboard-pro-angular/?_ga=2.71792851.1738810383.1704637745-1777164322.1704637745#/dashboard"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1dd"
+  },
+  "title": "Argon Design System PRO Angular",
+  "type": "Angular",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Unique Product branding application. Very neat coloring and design, simple. Has creative card recycle scrolling elements with fade and pop-up feature. Appropriate for web designer templates or product showcase/ registration or invoice. Appropriate for Tier 1 to Tier 2 features and potential N-Tier scalable, depending on usage and desired functionality.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/258/thumb/opt_adsp_angular_thumbnail.jpg?1571734504",
+  "url": "https://demos.creative-tim.com/argon-design-system-pro-angular/#/presentation"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1de"
+  },
+  "title": "Material Dashboard (Angular)",
+  "type": "Angular",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Very simple, yet creative dashboard system design. Color contrast and key features highlighted with white background. Offers shading, hints notification, basic dashboard with fewer operations. Appropriate for a tracking system that is not too complex, order operations tracking, offers form submissions and dynamic data driven views. N-Tier style to service oriented cloud feature desire and scale for internal business operations or public dashboard for social media possible.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/53/thumb/opt_md_angular_thumbnail.jpg?1551358074",
+  "url": "https://demos.creative-tim.com/material-dashboard-angular2/#/dashboard"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1df"
+  },
+  "title": "Paper Dashboard (Angular)",
+  "type": "Angular",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Simpler dashboard, paper design with light features. Makes easy to develop faster application for order tracking systems. Appropriate for N-Tier to Service Oriented Cloud.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/58/thumb/opt_pd_angular_thumbnail.jpg?1563355952",
+  "url": "https://demos.creative-tim.com/paper-dashboard-angular/#/dashboard"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1e0"
+  },
+  "title": "Light Bootstrap Dashboard (Angular)",
+  "type": "Angular",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Simple Design with good color contrasts. Application designed for internal business operations with account and login feature. Contains elements for charts, user profile management, tables, maps and notifications. This typically will favor business that would develop an internal tracking system for a Medium tier N-Tier or Service Oriented Tier Business solution.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/52/thumb/opt_lbd_angular_thumbnail.jpg?1551357855",
+  "url": "https://demos.creative-tim.com/light-bootstrap-dashboard-angular2/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1e1"
+  },
+  "title": "Paper Kit 2 (Angular)",
+  "type": "Angular",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Very neat explorer type application for displaying possible photography. Contains verious creative texts, image crops, image sliders, icons and subscription listing. Appropriate for Tier 1 to Tier 2 application design.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/65/thumb/opt_pk2_angular_thumbnail.jpg?1551358301",
+  "url": "https://demos.creative-tim.com/paper-kit-2-angular/#/home"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1e2"
+  },
+  "title": "Now UI Dashboard (Angular)",
+  "type": "Angular",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "First of the Now UI Dashboard styles. Very simple design, simple bootstraping. Gets the job done, easy. Appropriate for N-Tier to Service Oriented Cloud.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/85/thumb/opt_nud_angular_thumbnail.jpg?1551358119",
+  "url": "https://demos.creative-tim.com/now-ui-dashboard-angular/#/dashboard"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1e3"
+  },
+  "title": "Argon Dashboard (Angular)",
+  "type": "Angular",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "First of the Argon Dashboard styles. Argon style design, gives solcial media feel to dashboard, content creation style design and coloring. Possible dashboard for chatrooms or social media events. Gets the job done, easy. Appropriate for N-Tier to Service Oriented Cloud.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/150/thumb/opt_ad_angular_thumbnail.jpg?1552494440",
+  "url": "https://demos.creative-tim.com/argon-dashboard-angular/#/dashboard"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1e4"
+  },
+  "title": "Black Dashboard (Angular)",
+  "type": "Angular",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "First of the Black Dashboard styles. Very unique and simple design, simple bootstraping for a dark themed dashboard, appropriate for discord style chatroom or operations for tracking performance. Possible Similarities to bitcoin vendor applications, cloud mining operations or tracking, monitoring solutions. Gets the job done, easy. Appropriate for N-Tier to Service Oriented Cloud.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/169/thumb/opt_bd_angular_thumbnail.jpg?1563529558",
+  "url": "https://demos.creative-tim.com/black-dashboard-angular/#/dashboard"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1e5"
+  },
+  "title": "Now UI Kit (Angular)",
+  "type": "Angular",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Firt of the UI Kit design. Explorer type application product. Contains neat design to present product or application in desktop/mobile/tablet view. Appropriate for a product application, maybe social media potential, display blogs or pictures. Appropriate for Tier 1, Tier 2, N-Tier design scalability.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/77/thumb/opt_nuk_angular_thumbnail.jpg?1551358195",
+  "url": "https://demos.creative-tim.com/now-ui-kit-angular/#/index"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1e6"
+  },
+  "title": "Argon Design System (Angular)",
+  "type": "Angular",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Simple Design with good introduction to service style application. First of Argon Design systems UI, similar to Data Dog's information page. Document, blog post style application appropriate for a self contained Tier 1 or Tier 2 system.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/152/thumb/opt_argon_angular_thumbnail.jpg?1553853993",
+  "url": "https://demos.creative-tim.com/light-bootstrap-dashboard-angular2/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1e7"
+  },
+  "title": "Notus (Angular)",
+  "type": "Angular",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Very  Interesting and simple product introduction page to advertise a software product for download. Very informative design with simplicity in mind. Appropriate for Tier 1 to Tier 2 application design.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/391/thumb/opt_notus_angular_thumbnail.jpg?1602083001",
+  "url": "https://demos.creative-tim.com/notus-angular/?_ga=2.33324158.1738810383.1704637745-1777164322.1704637745"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1e8"
+  },
+  "title": "BLK Design System (Angular)",
+  "type": "Angular",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Very creative media style designer page. Introduction, download product informative web application. Intro to media service like soundcloud feel. Very designer friendly. Appropriate for Tier 1 to N Tier application design.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/221/original/opt_blk_angular_thumbnail.jpg?1569476059",
+  "url": "https://demos.creative-tim.com/blk-design-system-angular/#/home"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1e9"
+  },
+  "title": "Material Dashboard 2 PRO (React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Intriguing design for account management and profile dashboard, contains various charts and filterable sidebar features for heavy dashboard application system. Contains project management style kanban system and can be used to design something related feature or system. Datatables and calender unique design. Highly data driven from N-Tier to Service Oriented Design to Microservice scalability.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/80/thumb/material-dashboard-pro-react.jpg?1638882410",
+  "url": "https://demos.creative-tim.com/material-dashboard-pro-react/?_ga=2.41254882.1738810383.1704637745-1777164322.1704637745#/dashboards/analytics"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1ea"
+  },
+  "title": "Material Dashboard PRO Material-UI v4 (React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard application, simple features, reactive forms, templates, tables, maps, charts and calendar style. N-Tier to Service Oriented appropriate style.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/578/thumb/opt_mdp_react_thumbnail.jpeg?1638875224",
+  "url": "https://demos.creative-tim.com/material-dashboard-pro-material-ui-v4/?_ga=2.33567713.1738810383.1704637745-1777164322.1704637745"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1eb"
+  },
+  "title": "Material Kit 2 PRO (React)",
+  "type": "React",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Reactive Style Brand application, single page style verticle scroll with various sections. Contains Code template to showcase code snippets. Appropriate to introduce software product perhaps with api programmable capabilities. Appropriate for Tier 1, Tier 2, N-Tier to service oriented cloud design.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/89/thumb/material-kit-2-pro-react.jpg?1641568034",
+  "url": "https://demos.creative-tim.com/material-kit-pro-react/?_ga=2.70090064.1738810383.1704637745-1777164322.1704637745#/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1ec"
+  },
+  "title": "Material Kit PRO Material-UI v4 (React)",
+  "type": "React",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Reactive Style Branding application. Product Introduction page with various UI/UX elements, including animated design, computer based app driven product. using creative cards, examples. Product introduction page. Appropriate for Tier 1 to N-Tier design application",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/584/thumb/opt_mkp_react_thumbnail.jpeg?1641565255",
+  "url": "https://demos.creative-tim.com/material-kit-pro-material-ui-v4/?_ga=2.92107994.1738810383.1704637745-1777164322.1704637745#/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1ed"
+  },
+  "title": "Light Bootstrap Dashboard PRO (React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard application, simple features, reactive forms, templates, tables, maps, charts and calendar style. N-Tier to Service Oriented appropriate style.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/66/thumb/opt_lbp_react_thumbnail.jpg?1611149266",
+  "url": "https://demos.creative-tim.com/light-bootstrap-dashboard-pro-react/?&_ga=2.34617697.1738810383.1704637745-1777164322.1704637745#/admin/dashboard"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1ee"
+  },
+  "title": "Black Dashboard PRO (React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard application, simple features and dark coloring, look and feel of bitcoin mining application and charts. Design closely resembles monitoring application solutions for auditing or tracking systems, reactive forms, templates, tables, maps, charts and calendar style. N-Tier to Service Oriented appropriate style.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/138/thumb/opt_bdp_thumbnail.jpg?1547454513",
+  "url": "https://demos.creative-tim.com/black-dashboard-pro-react/?_ga=2.70540624.1738810383.1704637745-1777164322.1704637745#/admin/dashboard"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1ef"
+  },
+  "title": "Argon Dashboard PRO (React)",
+  "type": "React",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Reactive Style branding application. Simple and light argon features to react application. Ordering and purchasing page integrated for simple product. Appropriate for Tier 1 application.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/155/thumb/opt_adp_react_thumbnail.jpg?1554905507",
+  "url": "https://demos.creative-tim.com/argon-dashboard-pro-react/?_ga=2.263680204.1738810383.1704637745-1777164322.1704637745#/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1f0"
+  },
+  "title": "Black Dashboard PRO (React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard application, creative features and bold coloring, reactive forms, templates, tables, maps, charts and calendar style. N-Tier to Service Oriented appropriate style.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/134/thumb/opt_pdp_react.jpg?1542215770",
+  "url": "https://demos.creative-tim.com/paper-dashboard-pro-react/?&_ga=2.63929583.1738810383.1704637745-1777164322.1704637745#/admin/dashboard"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1f1"
+  },
+  "title": "Now UI Dashboard PRO (React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard application, simple features and base coloring, main feature includes a collapsible side panel, test with different background presets,  Design closely resembles monitoring application solutions for auditing or tracking systems, social media and account management feel, reactive forms, account management, registration page, user profile paging style. N-Tier to Service Oriented appropriate style.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/73/thumb/opt_nudp_react_thumbnail.jpg?1518533306",
+  "url": "https://demos.creative-tim.com/now-ui-dashboard-pro-react/?_ga=2.138818803.1738810383.1704637745-1777164322.1704637745#/admin/dashboard"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1f2"
+  },
+  "title": "Soft UI Dashboard PRO (React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard application. Gorgeous application with social media feel. Key features include sign in, collapsible card side panel filters. General statistics page. Can be used for financial tracking system, Ecommerce sales management systems with social media feel. Appropriate for Service Oriented Cloud to Microservices design.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/499/thumb/soft-ui-dashboard-pro-material-ui.jpg?1632132493",
+  "url": "https://demos.creative-tim.com/soft-ui-dashboard-pro-react/?_ga=2.71702867.1738810383.1704637745-1777164322.1704637745#/dashboards/default"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1f3"
+  },
+  "title": "Material Dashboard 2 PRO (React) TS",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard application, creative features and bold coloring, Ecommerce management dashboard system with user sign up/ authentication. Management of sales products design and project management styles and account management features. N-Tier to Service Oriented appropriate style.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/594/thumb/material-dashboard-pro-react-typescript.jpg?1644585363",
+  "url": "https://demos.creative-tim.com/material-dashboard-2-pro-react-ts/?_ga=2.134042830.1738810383.1704637745-1777164322.1704637745#/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1f4"
+  },
+  "title": "NextJS Material Kit PRO (React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard application, Gorgeous application design for graphics and artsy feel, technological solution with base coloring that is modern and attractive to the eye. Capturing imaging and coloring, can be used for blogs or advertisement product. Creative card view feature with long scrolling, deep sectioning and selections for ecommerce branding, shopping carts, blogging, signup page. Appropriate for High Tier 1 to N-Tier service application.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/218/thumb/opt_mkp_nextjs_thumbnail.jpg?1568968829",
+  "url": "https://demos.creative-tim.com/soft-ui-dashboard-pro-react/?_ga=2.71702867.1738810383.1704637745-1777164322.1704637745#/dashboards/default"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1f5"
+  },
+  "title": "NextJS Material Dashboard 2 PRO (React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard application, creative features and bold coloring, Ecommerce management dashboard system with user sign up/ authentication. Management of sales products design and project management styles and account management features. N-Tier to Service Oriented appropriate style.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/343/thumb/nextjs-material-dashboard-pro.jpg?1646999435",
+  "url": "https://demos.creative-tim.com/nextjs-material-dashboard-pro/?_ga=2.41317474.1738810383.1704637745-1777164322.1704637745"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1f6"
+  },
+  "title": "BLK• Design System PRO React",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard application, Media Millenialish  application design for graphics and artsy feel, technological solution with base coloring that is modern and attractive to the eye. Capturing imaging and coloring, can be used for blogs or advertisement product. Creative card view feature with long scrolling, deep sectioning and selections for ecommerce branding, shopping carts, blogging, signup page. Appropriate for High Tier 1 to N-Tier service application.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/218/thumb/opt_mkp_nextjs_thumbnail.jpg?1568968829",
+  "url": "https://demos.creative-tim.com/soft-ui-dashboard-pro-react/?_ga=2.71702867.1738810383.1704637745-1777164322.1704637745#/dashboards/default"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1f7"
+  },
+  "title": "Purity UI Dashboard PRO(React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dasboard application, gorgeous yet simple design for user account management, Ecommerce management dashboard system with user sign up/ authentication. Management of sales products design and project management styles and account management features, calendar and notifications paging. N-Tier to Service Oriented appropriate style.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/538/thumb/purity-ui-dashboard-pro.png?1634731582",
+  "url": "https://demos.creative-tim.com/now-ui-kit-pro-react/?_ga=2.260406349.1738810383.1704637745-1777164322.1704637745#/presentation"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1f8"
+  },
+  "title": "Now UI Kit PRO (React)",
+  "type": "React",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Reactive Style branding application, lonog scroll with sectionals for introduction to services. Very nice and clean template, presents images for I pad and mobile application. Formatted very well. Design for showcasing a startup brand with team, showcasing a product or application with a modern and clean cut business feel, with a blend of business casual/ professional and fashionova blend. Appropriate for Tier 1 application.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/171/thumb/opt_nukp_react_thumbnail.jpg?1564486765",
+  "url": "https://demos.creative-tim.com/now-ui-kit-pro-react/?_ga=2.260406349.1738810383.1704637745-1777164322.1704637745#/presentation"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1f9"
+  },
+  "title": "Paper Kit PRO (React)",
+  "type": "React",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Reactive Style branding application, Paper kit edition style, very neat and nice feel animation styling on components to advertise product for showcasing an application or social media trend. Clean template with unique paging, various types of pages,  including login, contact, landing page, product page, discovery page, form submissions. Appropriate for Tier 1 to N-Tier application.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/168/thumb/opt_pkp_react_thumbnail.jpg?1563190646",
+  "url": "https://demos.creative-tim.com/paper-kit-pro-react/?_ga=2.25638909.1738810383.1704637745-1777164322.1704637745#/presentation"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1fa"
+  },
+  "title": "NextJS Argon Dashboard PRO (React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard & Branding Page application. This application combines an introduction page with a login to application and dashboard setting. Containing calendars, widgets, maps, charts. Very uniqe feel to a dashboard social media application for potential scheduled business design with reactive forms, tables, components. Appopriate for N-Tier, service oriented to potential microservice application.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/347/thumb/opt_adp_nextjs_thumbnail.jpg?1598884722",
+  "url": "https://demos.creative-tim.com/nextjs-argon-dashboard-pro/?_ga=2.134692017.1738810383.1704637745-1777164322.1704637745"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1fb"
+  },
+  "title": "NextJS Argon Dashboard PRO (React)",
+  "type": "React",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard & Branding Page application. This application combines an introduction page with a login to application and dashboard setting. Containing calendars, widgets, maps, charts. Very uniqe feel to a dashboard social media application for potential scheduled business design with reactive forms, tables, components. Appopriate for N-Tier, service oriented to potential microservice application.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/347/thumb/opt_adp_nextjs_thumbnail.jpg?1598884722",
+  "url": "https://demos.creative-tim.com/nextjs-argon-dashboard-pro/?_ga=2.134692017.1738810383.1704637745-1777164322.1704637745"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1fc"
+  },
+  "title": "Vision UI Dashboard PRO (React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard Page application. dark blue theme, Sales management media with social profile application dashboard for ecommmerce platform. Appropriate for Service oriented to potential microservice application.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/582/thumb/vision-ui-dashboard-pro-react.png?1641889224",
+  "url": "https://demos.creative-tim.com/vision-ui-dashboard-pro-react/?_ga=2.108298178.1738810383.1704637745-1777164322.1704637745"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1fd"
+  },
+  "title": "Argon Design System PRO (React)",
+  "type": "React",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Reactive Style branding page application. Argon theme, blogging application theme, with small ecommerce business style examples. Contains register, checkout, pricing pages, contact, pricing and products page. Appropriate for Tier 1, Tier 2 to N-Tier Design style application",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/334/thumb/opt_adsp_react_thumbnail.jpg?1596031189",
+  "url": "https://demos.creative-tim.com/argon-design-system-pro-react/?_ga=2.62199148.1738810383.1704637745-1777164322.1704637745#/presentation"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1fe"
+  },
+  "title": "Argon Dashboard 2 PRO MUI (React)",
+  "type": "React",
+  "style": "Dashboard",
+  "date": "January 7, 2024",
+  "description": "Reactive Style dashboard page application. Argon theme dashboard application, Ecommerce sales management style, account management, and project management dashboard with Argon feel and reactive look. Appropriate for N-Tier to Service Oriented Cloud application.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/449/thumb/argon-dashboard-pro-material-ui.jpg?1654855803",
+  "url": "https://demos.creative-tim.com/argon-dashboard-pro-material-ui/?_ga=2.100037854.1738810383.1704637745-1777164322.1704637745#/dashboards/landing"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c1ff"
+  },
+  "title": "Notus PRO (React)",
+  "type": "React",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Reactive style branding page application. Notos theme branding application, Ecommerce sales branding style, client sales front component to sales application with various dashboard filters. Appropropriate for clothing or makup branding application. Appropriate for Tier 2 / N-Tier to Service Oriented Cloud application.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/452/thumb/opt_np_react_thumbnail.jpg?1619006214",
+  "url": "https://demos.creative-tim.com/notus-pro-react/?_ga=2.260340813.1738810383.1704637745-1777164322.1704637745#/components"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c200"
+  },
+  "title": "Notus PRO (React)",
+  "type": "React",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Reactive style branding page application. Notos theme branding application, Ecommerce sales branding style, client sales front component to sales application with various dashboard filters. Appropropriate for clothing or makup branding application. Appropriate for Tier 2 / N-Tier to Service Oriented Cloud application.",
+  "template": "https://s3.amazonaws.com/creativetim_bucket/products/597/original/opt_mdp_nextjs_thumbnail.jpeg?1646907244",
+  "url": "https://demos.creative-tim.com/nextjs-material-dashboard-pro-material-ui-v4/admin/dashboard?_ga=2.101718081.1738810383.1704637745-1777164322.1704637745"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c201"
+  },
+  "title": "Fragment (Webflow)",
+  "type": "Webflow",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Branding, marketing, ecommerce style website to introduce services with checkout cart. Seemless navigation and picture marketing with clever UI/UX animations. Appropriate for Tier 1, Tier 2, N-Tier to Service Oriented Cloud application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/65930833a79f45175522dbf0_6ed66bef-0446-4a53-b43a-abe7877791ff.jpeg",
+  "url": "https://fragment-marketing-landing-pages.webflow.io/general-layouts/store"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c202"
+  },
+  "title": "Darkfi (Webflow)",
+  "type": "Webflow",
+  "style": "Portfolio",
+  "date": "January 7, 2024",
+  "description": "Artsy, Branding Designer style application for possible artists, graphics designers. Appropriate for Tier 1 level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/65820d000d9ffccc55e008a6_thumbnail.jpeg",
+  "url": "https://darkfi.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c203"
+  },
+  "title": "Motions (Webflow)",
+  "type": "Webflow",
+  "style": "Video",
+  "date": "January 7, 2024",
+  "description": "Branding  Explorer Designer style application for possible photographers, marketing, advertising or directing. Appropriate for Tier 1 to N Tier level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/65948f2ca1e52894855d63fa_ed276047-ee7e-4491-997f-d5c702133888.jpeg",
+  "url": "https://motions.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c204"
+  },
+  "title": "PlotLand (Webflow)",
+  "type": "Webflow",
+  "style": "Real Estate",
+  "date": "January 7, 2024",
+  "description": "Artsy, Branding  Explorer Designer modern realestate style web application. Appropriate for Tier 1 level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/65983c06ec4312ec22ff88d3_f477923b-eeeb-445b-bbf7-6e1d7ab3645a.jpeg",
+  "url": "https://plotland-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c205"
+  },
+  "title": "A.Arch (Webflow)",
+  "type": "Webflow",
+  "style": "Real Estate",
+  "date": "January 7, 2024",
+  "description": "Artsy, Branding  Architecture Designer modern style web application. Appropriate for Tier 1 level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/65985dbefdd1e0ea92a67882_3783d3aa-e8ed-4728-8f95-e18d1c0cbece.png",
+  "url": "https://a-arch.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c206"
+  },
+  "title": "Beautyeo (Webflow)",
+  "type": "Webflow",
+  "style": "Beauty & Wellness",
+  "date": "January 7, 2024",
+  "description": "Artsy, Branding  Make-Up, Beauty Designer modern style web application. Appropriate for Tier 1 level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/65985dc1f9e31d7f31317c13_64108cb7-b74e-4246-862e-6e0a19adcc56.png",
+  "url": "https://beautyeo.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c207"
+  },
+  "title": "Rocfklow (Webflow)",
+  "type": "Webflow",
+  "style": "Video",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography and video studio style modern style web application. Appropriate for Tier 1 level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/65985ebefdd1e0ea92a72e7b_dee44129-70ac-462f-8b37-6a2b68d89bc7.webp",
+  "url": "https://rockflow.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c208"
+  },
+  "title": "Wilson (Webflow)",
+  "type": "Webflow",
+  "style": "Real Estate",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for modern  real-estate style web application. Appropriate for Tier 1 to N-Tier and possible Service Oriented level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/658511d76e547acda0243f6c_wilsonthumbnail2.jpeg",
+  "url": "https://wilson-real-estate.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c209"
+  },
+  "title": "Fortt (Webflow)",
+  "type": "Webflow",
+  "style": "Brand",
+  "date": "January 7, 2024",
+  "description": "Branding application to market product brand or marketing, social media agency style. Appropriate for Tier 1 to N-Tier style web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/659457903c0e03d05ede4828_ff198089-504d-48cc-a595-b59804eef3ad.jpeg",
+  "url": "https://fort-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c20a"
+  },
+  "title": "FitFustion (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for modern fitness gym &  class schedule, style web application. Appropriate for Tier 1 to N-Tier and possible Service Oriented level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/6596f0b3059bcd6644ce2e9b_thum.jpeg",
+  "url": "https://fitfustion.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c20b"
+  },
+  "title": "Fitnesso (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for modern fitness, style web application. Appropriate for Tier 1 to N-Tier and possible Service Oriented level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5e9ccdee1b847f341b567aed_5e8718b161e135a3389fc245_Thumbnail.png",
+  "url": "https://fitnesso.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c20c"
+  },
+  "title": "Fitness X (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for modern fitness, style web application. Appropriate for Tier 1 to N-Tier and possible Service Oriented level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5fe33ae4bcae600eb207a281_thumbnail.jpg",
+  "url": "https://fitnesstemplates.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c20d"
+  },
+  "title": "Clemus (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for modern fitness, style web application. Appropriate for Tier 1 to N-Tier and possible Service Oriented level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/6573789e0a04530dc1eaade3_0fitnesswebflowtemplate.png",
+  "url": "https://clemus-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c20e"
+  },
+  "title": "Ethos (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for modern fitness, style web application. Appropriate for Tier 1 to N-Tier and possible Service Oriented level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/650dab0896cd4ec177f6fc55_ethosmainthumbnew.jpeg",
+  "url": "https://ethos-fitness-sport-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c20f"
+  },
+  "title": "NoFitnessYet (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for modern fitness, style web application. Appropriate for Tier 1 to N-Tier and possible Service Oriented level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/61977f4d836b7827f53efe82_thumbnail.jpeg",
+  "url": "https://nofitnessyet.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c210"
+  },
+  "title": "Yoga Plus (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for modern fitness, style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/654924d1bd2ca5a060f88bfe_yogapluscover.jpeg",
+  "url": "https://yoga-plus-wcopilot.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c211"
+  },
+  "title": "Zeus (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for modern fitness, style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/60a98114c13b96138435262b_thumbnail.png",
+  "url": "https://zeus-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c212"
+  },
+  "title": "Sportans (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for modern fitness, style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/6449785ac7d8e127be4db35f_sportanssportswebflowtemplate560x720.jpeg",
+  "url": "https://sportans-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c213"
+  },
+  "title": "Lifestyle - Gym (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for modern fitness, style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5e593fb060cf879c0f75ea78_lifestyle%402x.jpg",
+  "url": "http://template-lifestyle.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c214"
+  },
+  "title": "Resturanto (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/646e31ed628a2e75d10a2566_0thumbnail%20(1).jpg",
+  "url": "https://resturanto.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c215"
+  },
+  "title": "Restaurante (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/643f05640b2aae591af1bbef_5e593fb060cf871c9c75ee3d_Thumbnail-Image.jpeg",
+  "url": "https://restaurante-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c216"
+  },
+  "title": "Restaurante X (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/65773ba32b368cfb9d9cc75a_0restaurantwebflowtemplate.png",
+  "url": "https://restaurantetemplate.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c217"
+  },
+  "title": "Hampton (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/613ac383767163d9a305c8c7_templatestorethumbnail.png",
+  "url": "https://hampton-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c218"
+  },
+  "title": "Pizzaplanet X (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/65773f8c3c54510d678a53e3_0pizzarestaurantwebflowtemplate.png",
+  "url": "https://pizzaplanet.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c219"
+  },
+  "title": "Nique (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/6331ea8bc8d92742913a2084_niquethumbnail.jpeg",
+  "url": "https://nique-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c21a"
+  },
+  "title": "Truffle Dining (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/64de423ee1c7725f49eb12e3_thumbnailmin.jpeg",
+  "url": "https://truffle-restaurant-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c21b"
+  },
+  "title": "Lord Burger (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/648b5a48879b8058b3acd9c7_thumbmarketplace.jpeg",
+  "url": "https://lord-burger-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c21c"
+  },
+  "title": "Taor (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/64f0d82530368ac2a6a9611e_taormainthumbnewdesign.jpg",
+  "url": "https://taor-restaurant-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c21d"
+  },
+  "title": "Rosoi (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/6421ecd649c5e784bd99f077_thumbnail560x720.png",
+  "url": "https://rosoi.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c21e"
+  },
+  "title": "Rosemary (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/629a836dc90e971e50278737_Rosemary%20Template%20Thumbnail.png",
+  "url": "https://rosemary-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c21f"
+  },
+  "title": "Gourmet Burger (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5e593fb060cf87dfa575f359_Gourmet%20Burger%20Webflow%20Template%20Thumbnail.png",
+  "url": "https://gourmetburger.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c220"
+  },
+  "title": "Foodhouse (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/612eac326ffba5505afa63c8_foodhousethumbnail.jpeg",
+  "url": "https://foodhouse.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c221"
+  },
+  "title": "Mooshi (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/6386d2efb0020a0d4c698a6e_mooshithumbnail.jpeg",
+  "url": "https://mooshi-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c222"
+  },
+  "title": "Basilico (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5e593fb060cf87814c75f4ea_basilicocover.jpg",
+  "url": "https://basilico.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c223"
+  },
+  "title": "The Pizzeria (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/63c562294440ed301b208ba3_thumbnail.webp",
+  "url": "https://thepizzeria.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c224"
+  },
+  "title": "Elara (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/62d074acf1fe527a2c184c40_thumbnail.png",
+  "url": "https://elara-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c225"
+  },
+  "title": "Risoto (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5eb1fff2dc812df8b0a6a00d_Template-Thumbnail.jpg",
+  "url": "http://risoto-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c226"
+  },
+  "title": "Raging Tacos (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/64c91cb0e3c858434182b41c_thumb.jpeg",
+  "url": "https://ragingtacos.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c227"
+  },
+  "title": "Pauls (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/63bce126cf0c89bb6abefc28_thumbnail.jpeg",
+  "url": "https://pauls-burger.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c228"
+  },
+  "title": "Delice (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/628d4f92a8ef9536a1938402_delicemainimg.jpeg",
+  "url": "https://delice-restaurant.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c229"
+  },
+  "title": "Odyssey (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/62a01ad0ecd1bd506964940b_thumbnail.jpeg",
+  "url": "https://odyssey-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c22a"
+  },
+  "title": "TasteEat (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/6250622c858fdc626e7c31af_thumbnailpresentation560x720.jpeg",
+  "url": "https://tasteat-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c22b"
+  },
+  "title": "Yummy (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5e593fb060cf87054375f147_thumbnail.jpg",
+  "url": "https://yummy-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c22c"
+  },
+  "title": "Zooshi (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5e593fb060cf87280f75eb1a_zooshi%402x.jpg",
+  "url": "https://template-zooshi.webflow.com/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c22d"
+  },
+  "title": "Alice (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5e593fb060cf87837c75f18a_alice-cover.jpg",
+  "url": "https://alice-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c22e"
+  },
+  "title": "Ferrano CMS (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5eb1c8b49768b05f4a6b8c5f_thumbnail-Ferrano-.jpg",
+  "url": "https://ferranocms.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c22f"
+  },
+  "title": "Ferrano CMS (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5eb1c8b49768b05f4a6b8c5f_thumbnail-Ferrano-.jpg",
+  "url": "https://ferranocms.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c230"
+  },
+  "title": "Flavorique (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/658473bd10c85bab6163bcfd_thumbnail21.png",
+  "url": "https://flavorique.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c231"
+  },
+  "title": "Yaamy (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/658476ae27d70e35dab7214d_thum.png",
+  "url": "https://flavorique.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c232"
+  },
+  "title": "Yaamy (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/658476ae27d70e35dab7214d_thum.png",
+  "url": "https://flavorique.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c233"
+  },
+  "title": "Flavorique (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/658473bd10c85bab6163bcfd_thumbnail21.png",
+  "url": "https://flavorique.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c234"
+  },
+  "title": "Miller (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5e593fb060cf873f2875f4f7_thumb.png",
+  "url": "https://miller-restaurant-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c235"
+  },
+  "title": "Eatery (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/610c9b4885d7d719f78140b2_thumbnailimage560x720px2x.jpeg",
+  "url": "https://eatery-level.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c236"
+  },
+  "title": "Fine Dining 128 (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/62a219e0577e254182fcf646_finedining128cover.png",
+  "url": "https://fine-dining-128.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c237"
+  },
+  "title": "Bob's (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/6193325a82a9ae726533c76f_posterbobs.png",
+  "url": "https://bobs-template.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c238"
+  },
+  "title": "Easy Times (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/5e593fb060cf87e68675eda9_Template-Thumbnail-easy-times.jpg",
+  "url": "https://easy-times.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d4566f0a79f8434006c239"
+  },
+  "title": "Napoli  (Webflow)",
+  "type": "Webflow",
+  "style": "Restaurant",
+  "date": "January 7, 2024",
+  "description": "Artsy, Photography web page built for Restaurant style web application. Appropriate for Tier 1 to N-Tier web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/650db6b4cd91ab7a39ef62db_napolithumbnail.jpg",
+  "url": "https://az-napoli.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d587dc0a79f8434006c23a"
+  },
+  "title": "MMA Academy (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "February 21, 2024",
+  "description": "short video marketing, web page built for modern fitness gym, focused on MMA & class schedule & distributed class focus, style web application. Appropriate for Tier 1 to N-Tier (database/account management driven potential) and possible Service Oriented level web application.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/628d4f902ef8ea7d5ff28694_mmaacademythumbnailoptimized.jpeg",
+  "url": "https://mma-academy.webflow.io/"
+},{
+  "_id": {
+    "$oid": "65d58a0e0a79f8434006c23b"
+  },
+  "title": "Rev Gym (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "February 21, 2024",
+  "description": "Various picture driven marketing, focused on equipment. Gives a cultural feel for quiet and sensible enviornment. Catered design for particular client. web page built for modern fitness gym, focused on MMA & class schedule & distributed class focus, style web application. Appropriate for Tier 1 to Tier 2 Design. Database to N-Tier Design is optional scalability needs. Customizable to various degrees depending on business needs",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/658c8192ff82cb8ecb13f751_71be0db7-1cad-4f37-916a-c4e8f4083a5e.jpeg",
+  "url": "https://revgym.webflow.io/#reviews"
+},{
+  "_id": {
+    "$oid": "65d58c070a79f8434006c23c"
+  },
+  "title": "Zen Fit (Webflow)",
+  "type": "Webflow",
+  "style": "Fitness",
+  "date": "February 21, 2024",
+  "description": "Combination of short video and picture marketing, focused on key trainers and key client for business advertising. Introduce various activities and allows newsletter subscription and membership cart. Small group focused activity. Appropriate for Tier 1 to Tier 2 Design. Customizable to various degrees depending on business needs",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/65d379dee33802ccc7767162_ba088798-887b-474c-bde2-10fdbd3baddf.png",
+  "url": "https://zenfit-template.webflow.io/"
+},
+{
+  "title": "Dojo Martial Arts (Theme Forest)",
+  "type": "Themeforest",
+  "style": "Fitness",
+  "date": "February 22, 2024",
+  "description": "I love this one long scroll with various animation slide in parallex integrated application. This is a perfect Tier 1 Solution website. Enough to get the job done, all information embedded and get sign up.",
+  "template": "https://s3.envato.com/files/148923358/00.jpg",
+  "url": "https://dojo.html.themeforest.createit.pl/index4.html"
+},
+{
+  "title": "Knockout (Theme Forest)",
+  "type": "Themeforest",
+  "style": "Fitness",
+  "date": "February 25, 2024",
+  "description": "Various movie theme images. This is a perfect Max Tier 1 to N-Tier Solution website. The lack of animation and on the site allows improved performance to allow backend features such as carts, classes, shops and chat window to load effortlessly. Integrates  Enough to get the job done, all information embedded and get sign up.",
+  "template": "https://themeforest.img.customer.envatousercontent.com/files/377916149/00_preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=428a55e8361da86e0c00c83c19d185bd",
+  "url": "https://knockout.qodeinteractive.com/"
+},
+{
+  "title": "Rumble Boxer (Theme Forest)",
+  "type": "Themeforest",
+  "style": "Fitness",
+  "date": "February 25, 2024",
+  "description": "Modern yet classic image theme with slight animations. This is a perfect Mid Tier 1 Solution website with all the features and page distributions, shop cart integration. Payment system and booking system integrated. Effortless loading and clean style. Redish theme with glove color.",
+  "template": "https://themeforest.img.customer.envatousercontent.com/files/345842701/rumble/01_Rumble.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=e4cf2e5a88b915aa76b4da23e0135a73",
+  "url": "https://rumble.ancorathemes.com/#"
+},
+{
+  "title": "Martial Arts World (Theme Forest)",
+  "type": "Themeforest",
+  "style": "Fitness",
+  "date": "February 25, 2024",
+  "description": "Modern yet Traditional image theme with slight animations & parallex scrolling. This is a perfect Mid Tier 1 Solution website with all the features and page distributions. Effortless loading and clean style.",
+  "template": "https://assets-global.website-files.com/5e593fb060cf877cf875dd1f/6423b55d23abeb0822c9ed37_martialartscover.jpeg",
+  "url": "https://martial-arts-wcopilot.webflow.io/"
+}
+]

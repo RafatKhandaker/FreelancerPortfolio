@@ -1,0 +1,58 @@
+.resume h2{
+    color: black;
+    text-align: start;
+}
+.resume p{
+    color: black;
+}
+
+.resume table, td, th {
+    border: 1px solid;
+  }
+  
+  .resume table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .resume{
+    max-width: 990px;
+    width: 100%;
+    margin-bottom: 200px,
+  }
+  
+  .right-card-btn{
+    max-width: 200px;
+  }
+
+  .resume-right-card{
+    height: fit-content;
+    padding: 20px;
+    box-shadow: 0px 0px 25px 20px teal;
+    text-align-last: center;
+    background: darkslategrey;
+    width: 250px;
+    margin-left: 40px;
+  }
+
+  .resume-body-wrapper{
+    display: inline-flex;
+  }
+
+  @media only screen and (max-width: 1000px) {
+    .resume-body-wrapper{
+      display: inline-block;
+      width: 100%;
+    }
+    .resume{
+      margin-bottom: 25px;
+    }
+    .resume-right-card{
+      margin-left: 0px;
+      width: 100%;
+    }
+
+    .right-card-btn{
+      max-width: 100%;
+    }
+  }

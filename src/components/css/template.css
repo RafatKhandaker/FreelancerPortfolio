@@ -1,0 +1,61 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+  }
+
+  .filter-container {
+    width: -web-fill-available;
+  }
+
+  .scroll-filter{
+    width: 100%;
+    overflow-x: auto;
+  }
+ 
+  .css-50cssj{
+    box-shadow: 0 0 20px black !important;
+    z-index: 100 !important;
+    position: relative !important;
+  }
+
+  .css-npvilh-MuiPaper-root-MuiCard-root{
+    box-shadow: 0 0 20px black !important;
+    z-index: 100 !important;
+    position: relative !important;
+  }
+
+  @media only screen and (max-height: 942px) {
+  
+  }
+  @media only screen and (max-width: 1500px) {
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 10px;
+    }
+  }
+
+  @media only screen and (max-width: 1500px) {
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 10px;
+    }
+  }
+  @media only screen and (max-width: 900px) and (min-width:600px) {
+
+  }
+
+  @media only screen and (max-width: 600px)  {
+
+  }
+
+
+  @media only screen and (max-width: 1000px) {
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      grid-gap: 10px;
+    }
+  }
